@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; First year student of MCA at NIT Raipur , India.
+- 🎓 &nbsp; Second year student of MCA at NIT Raipur , India.
 - 🌱 &nbsp; Currently Learning Javascript.
 - 🥅 &nbsp; 2022 Goals: Learn more about open source
 
